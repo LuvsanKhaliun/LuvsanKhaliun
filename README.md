@@ -11,7 +11,8 @@ Computer Science & Technology bachelor's Graduate
 • Project Management
 
 🛠️ Technologies:
-React Native | Python | Node.js | MySQL | Flask | Git | PostgreSQL | Rest API | Android Studio
+React Native | Python | Node.js | MySQL | Supabase | Flask | Git | PostgreSQL | Rest API | Android Studio | Adobe PS |
+Adobe After Effects | Adobe Illustrator
 
 📌 Featured Projects:
 🐾 Pet Health Management and Social App
